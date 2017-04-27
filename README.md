@@ -2,6 +2,9 @@
 
 設置しているオブジェクトのほとんどを編集可能にしているので、配置のバランスを調整したい場合は、各自で調整しましょう。
 
+コードを書くためのスライド「コード」では、フォントに [Ricty-Diminished](https://github.com/edihbrandon/RictyDiminished) を使用しています。
+「コード」スライドを利用する場合は [Ricty-Diminished](https://github.com/edihbrandon/RictyDiminished) のインストールを推奨します。
+
 ## MStyle-Dark Sample
 
 ### [MStyle-Dark DEMO](https://speakerdeck.com/masahirosaito/mstyle-dark-demo)
